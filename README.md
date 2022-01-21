@@ -27,7 +27,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-using-html-css-flexbox-and-media-query-3AN5Fvoc2]
 - Live Site URL: [https://genesisgran.github.io/stats-preview-card/]
 
 ## Built with
